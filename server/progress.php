@@ -2,7 +2,7 @@
 <?php
 ini_set('max_execution_time', 0);
 
-$max = 10000000;
+$max = 10000000000;
 
 function setProgress($progress) {
     $file = __DIR__ . '/p';
